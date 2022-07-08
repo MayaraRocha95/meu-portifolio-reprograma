@@ -20,7 +20,7 @@ O Projetinho será: "Meu portfólio da reprograma"
 
 5- Faça o footer - com o crédito de autora do projeto
 
-`- projeto da Profa,vem aqui entender melhor e se inspirar`: [Meu portfólio da reprograma](https://exemplo-site2.netlify.app/) 
+`- projeto da Profa,vem aqui entender melhor e se inspirar`: [ portfólio da Profa reprograma](https://exemplo-site2.netlify.app/) 
 
 > Passo a passo:
 1) Crie um projeto react com vite
