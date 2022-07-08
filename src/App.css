@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital@1&family=Gentium+Plus:ital@1&family=Kanit&family=Montserrat:wght@600&family=Nuosu+SIL&family=Source+Serif+Pro:ital,wght@1,600&display=swap');
+*{
+  font-family: 'Source Serif Pro', serif;
+}
+header {
+ background-color: #674582;
+ padding: 100px;
+ color:white;
+ text-align: center;
+}
+
+.navbar {
+  display:flex;
+  justify-content: center;
+  text-align:center;
+}
+
+.imagem{
+  margin:20px;
+  width:150px;
+  text-align:center;
+
+}
+.titulo{
+  margin:70px;
+  font-size:3vw;
+  text-align:center;
+  color:#7e4595;
+}
+.apresentacao {
+  text-align:center;
+  
+}
+section {
+  padding:10px 240px;
+}
+.textos {
+  text-align:center;
+  padding:10px 400px;
+  font-size:1vw;
+}
+.container  {
+  text-align:center;
+  
+}
+  section {
+    padding:10px;
+  
+  }
+ 
+.pesquisa{
+ text-align:center;
+ font-size:35px;
+ }
+ .pesquisa input {
+  padding:8px 8px;
+  font-size:20px;
+ } 
+.cards{
+  display:flex;
+  flex-wrap: wrap;
+}
+ .repos{
+  
+  background-color: #b186d3;
+  margin:2px;
+  width: 200px;
+  height: 150px;
+  text-align:center;
+ }
+
+ .projects-container {
+  background-color: #7e4595;
+  margin: auto;
+  text-align:center;
+
+ }
+ .projects-container h1{
+    color:white;
+  font-size:35px;
+ }
+ .project-card {
+   color:white;
+   background-color:black;
+  margin: 15px 450px;
+  
+ }
+ .project-card img {
+  width:100%;
+ }
+ .project-card a {
+  text-decoration: none;
+  font-size:35px;
+  color:white;
+ }
+ footer {
+  margin:5px 0 0 0;
+  background-color: #674582;
+  padding: 30px;
+  color:white;
+  text-align: center;
+  font-size: 10px;
+ }
+
+ @media screen and (max-width: 768px){
+  .textos{
+    padding:0;
+    font-size:15px;
+  }
+  .apresentacao{
+    display:inline-block;
+ 
+    padding:0;
+  }
+}
