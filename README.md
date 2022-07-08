@@ -4,7 +4,13 @@ Segunda semana de React na reprograma com o projeto portifolio
 ## Descrição do Projeto
 Página feita para apresentar meus projetos, neste está disponível 4 projetos para ver de forma rápida, neste mesmo site é possivel 30 dos meus repositório e fazer uma busca com base no nome do projeto. 
 
+[Link do projeto](https://meu-portifolio-reprograma.netlify.app/)
+
 ![previa](meu-portifolio.gif)
+
+
+
+
 ### `Entregavel da semana` 
 Vamos criar um projetinho react do zero com direito a componetização, uso de props, consumo de API, uso de listas/keys e uso de hooks.
 
