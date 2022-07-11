@@ -6,14 +6,18 @@ import Footer from './Footer/Footer'
 import './App.css'
 import Repositorios from './components/Repositorios/Repositorios'
 import Projects from './components/Projetos/Projects'
+import image from './assets/img.svg'
+
 
 function App() {
- 
 
   return (
   <> 
   <header>
-  <Header>Meu Portifólio da Reprograma</Header>
+  <Header image={image}
+   description="ilustração de uma mulher em uma apresentação"
+   >
+    Meu Portifólio da Reprograma</Header>
   </header>
   <nav className="navbar">
     <Imagem image="https://i.picasion.com/pic92/7ed949395b718fa94155b37df4490576.gif" alt="imagem da desenvolvedora do site" />

@@ -1,13 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital@1&family=Gentium+Plus:ital@1&family=Kanit&family=Montserrat:wght@600&family=Nuosu+SIL&family=Source+Serif+Pro:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=DM+Sans:ital@1&family=Gentium+Plus:ital@1&family=Graduate&family=Indie+Flower&family=Kanit&family=Montserrat:wght@600&family=Nuosu+SIL&family=Pacifico&family=Source+Serif+Pro:ital,wght@1,600&display=swap');
 *{
   font-family: 'Source Serif Pro', serif;
 }
-header {
- background-color: #674582;
- padding: 100px;
- color:white;
- text-align: center;
-}
+
 
 .navbar {
   display:flex;
@@ -25,7 +21,8 @@ header {
   margin:70px;
   font-size:3vw;
   text-align:center;
-  color:#7e4595;
+  color:#686AAC;
+  font-family: 'Pacifico', cursive;
 }
 .apresentacao {
   text-align:center;
@@ -43,9 +40,8 @@ section {
   text-align:center;
   
 }
-  section {
-    padding:10px;
-  
+ section {
+  padding:10px;
   }
  
 .pesquisa{
@@ -61,7 +57,6 @@ section {
   flex-wrap: wrap;
 }
  .repos{
-  
   background-color: #b186d3;
   margin:2px;
   width: 200px;
@@ -69,38 +64,7 @@ section {
   text-align:center;
  }
 
- .projects-container {
-  background-color: #7e4595;
-  margin: auto;
-  text-align:center;
 
- }
- .projects-container h1{
-    color:white;
-  font-size:35px;
- }
- .project-card {
-   color:white;
-   background-color:black;
-  margin: 15px 450px;
-  
- }
- .project-card img {
-  width:100%;
- }
- .project-card a {
-  text-decoration: none;
-  font-size:35px;
-  color:white;
- }
- footer {
-  margin:5px 0 0 0;
-  background-color: #674582;
-  padding: 30px;
-  color:white;
-  text-align: center;
-  font-size: 10px;
- }
 
  @media screen and (max-width: 768px){
   .textos{
