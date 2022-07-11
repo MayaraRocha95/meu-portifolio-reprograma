@@ -6,7 +6,8 @@ Página feita para apresentar meus projetos, neste está disponível 4 projetos 
 [Link do Projeto](https://meu-portifolio-reprograma.netlify.app/)
 
 
-![previa](meu-portifolio.gif)
+
+![meuportifolio](https://user-images.githubusercontent.com/98711190/178331448-8dbfb7c3-d4ff-4c79-aa52-fa3d3e5d853b.gif)
 
 
 
